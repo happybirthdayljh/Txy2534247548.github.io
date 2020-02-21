@@ -36,7 +36,7 @@
             z: script.getAttribute("zIndex") || -1,
             opacity: script.getAttribute("opacity") || 0.5,
             color: script.getAttribute("color") || "0,0,0",
-            count: script.getAttribute("count") || 500
+            count: script.getAttribute("count") || 150
         }
     }
     //获得窗口宽高，并设置canvas元素宽高
