@@ -35,7 +35,7 @@
             length: len,
             z: script.getAttribute("zIndex") || -1,
             opacity: script.getAttribute("opacity") || 0.5,
-            color: script.getAttribute("color") || "0,0,0",
+            color: script.getAttribute("color") || "F9,F9,0",
             count: script.getAttribute("count") || 99
         }
     }
